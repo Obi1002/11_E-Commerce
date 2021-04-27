@@ -1,0 +1,26 @@
+{
+  "name": "11_e-commerce",
+  "version": "1.0.0",
+  "description": "* [Acceptance Criteria](#acceptancecriteria)\r * [Installation](#installation)\r * [Project Status](#projectstatus)\r * [License](#license)\r * [Deployment](#deployment)\r * [Usage](#usage)\r * [Preview of the App](#previewApp)",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obi1002/11_E-Commerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obi1002/11_E-Commerce/issues"
+  },
+  "homepage": "https://github.com/Obi1002/11_E-Commerce#readme"
+}
