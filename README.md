@@ -38,8 +38,8 @@ MIT
 <!-- # Deployment
 [Link](https://drive.google.com/file/d/1O19XE915vSMxjYLlFQsY-bE4j2_3muhJ/view?usp=sharing) -->
 
-# Usage
-When you open the terminal, you will be able to view all employees, view employees by department and by role, view all departments, add new employees and new Departments, update an employee's information and remove employees. 
+<!-- # Usage
+When you open the terminal, you will be able to view all employees, view employees by department and by role, view all departments, add new employees and new Departments, update an employee's information and remove employees.  -->
 
 <!-- Add screenShot
 # Preview of the App
