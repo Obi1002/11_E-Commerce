@@ -36,10 +36,7 @@ MIT
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sdca/advdv)
 
 # Deployment
-[Link](https://drive.google.com/file/d/1zWecle6rZHCk6TPqthJFXVV--E9M4sOS/view?usp=sharing)
-
-<!-- # Usage
-When you open the terminal, you will be able to view all employees, view employees by department and by role, view all departments, add new employees and new Departments, update an employee's information and remove employees.  -->
+[Link](https://drive.google.com/file/d/1jNVSPT4Smim6wksXoL8U9ln9vnSz8y_h/view)
 
 Add screenShot
 # Preview of the App
