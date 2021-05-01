@@ -58,7 +58,7 @@ router.post('/', (req, res) => {
   /* req.body should look like this...
     {
       product_name: "Basketball",
-      price: 200.00,
+      price:npm 200.00,
       stock: 3,
       tagIds: [1, 2, 3, 4]
     }
@@ -81,7 +81,7 @@ router.post('/', (req, res) => {
     .then((productTagIds) => res.status(200).json(productTagIds))
     .catch((err) => {
       console.log(err);
-      res.status(400).json(err);
+      res.status(200).json(err);
     });
 });
 
@@ -123,7 +123,7 @@ router.put('/:id', (req, res) => {
     .then((updatedProductTags) => res.json(updatedProductTags))
     .catch((err) => {
       // console.log(err);
-      res.status(400).json(err);
+      res.status(200).json(err);
     });
 });
 
